@@ -11,7 +11,7 @@ aggregation solidity learning resources in one page
 - [6. Useful Tools](#6-useful-tools)
   
  ### 1. Blogs
-  [awesome-solidity](https://github.com/bkrem/awesome-solidity)丨
+  [awesome-solidity](https://github.com/bkrem/awesome-solidity?_blank)丨
   [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)丨
   [awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn)丨
   
