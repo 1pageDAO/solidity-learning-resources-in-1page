@@ -7,7 +7,7 @@ aggregation solidity learning resources in one page
 - [3. Security](#3-security)
 - [4. Gas Optimization](#4-gas-optimization)
 - [5. Popular Programs](#5-popular-programs)
-- [6. Useful Tools](#6-useful-tools)
+- [6. Known Less But Useful Tools](#6-known-less-but-useful-tools)
   
  ### 1. Blogs
   [awesome-solidity](https://github.com/bkrem/awesome-solidity)丨
@@ -21,7 +21,11 @@ aggregation solidity learning resources in one page
   [DappLearning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)丨
  
  ### 3. Security
+  [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)丨
+  [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)丨
+  [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)丨
   [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)丨
+  [secureum mind map](https://github.com/x676f64/secureum-mind_map)丨
   
  ### 4. Gas Optimization
   [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
@@ -30,5 +34,5 @@ aggregation solidity learning resources in one page
   [Uniswap](https://github.com/Uniswap/v2-core)丨
   [1inchProtocol](https://github.com/1inch/1inchProtocol)丨
   [Tornado Cash](https://github.com/tornadocash/tornado-core)丨
- ### 6. Useful Tools
- 
+ ### 6. Known Less But Useful Tools
+  [Tenderly](https://tenderly.co/)丨
