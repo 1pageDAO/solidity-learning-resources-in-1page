@@ -8,7 +8,7 @@ aggregation solidity learning resources in one page
 - [3. Security](#3-security)
 - [4. Gas Optimization](#4-gas-optimization)
 - [5. Popular Programs](#5-popular-programs)
-- [6. Recommend Tools](#6-recommend-tools)
+- [6. Useful Tools](#6-useful-tools)
   
  ### 1. Blogs
   [awesome-solidity](https://github.com/bkrem/awesome-solidity)丨
@@ -28,5 +28,5 @@ aggregation solidity learning resources in one page
  
  ### 5. Popular Programs
  
- ### 6. Recommend Tools
+ ### 6. Useful Tools
  
