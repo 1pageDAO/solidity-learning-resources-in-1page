@@ -14,6 +14,7 @@ aggregation solidity learning resources in one page
   [awesome-solidity](https://github.com/bkrem/awesome-solidity?_blank)丨
   [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)丨
   [awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn)丨
+  <a href="https://github.com/bkrem/awesome-solidity" target="_blank">awesome</a>
   
  
  ### 2. Communities
