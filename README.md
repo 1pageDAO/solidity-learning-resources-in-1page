@@ -2,7 +2,6 @@
 aggregation solidity learning resources in one page
 
 ### Contents
-
 - [1. Blogs](#1-blogs)
 - [2. Communities](#2-communities)
 - [3. Security](#3-security)
@@ -11,11 +10,9 @@ aggregation solidity learning resources in one page
 - [6. Useful Tools](#6-useful-tools)
   
  ### 1. Blogs
-  [awesome-solidity](https://github.com/bkrem/awesome-solidity?_blank)丨
+  [awesome-solidity](https://github.com/bkrem/awesome-solidity)丨
   [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)丨
   [awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn)丨
-  <a href="https://github.com/bkrem/awesome-solidity" target="_blank">awesome</a>
-  
  
  ### 2. Communities
   [登链社区](https://learnblockchain.cn/)丨
@@ -24,10 +21,14 @@ aggregation solidity learning resources in one page
   [DappLearning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)丨
  
  ### 3. Security
- 
+  [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)丨
+  
  ### 4. Gas Optimization
- 
+  [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
+  
  ### 5. Popular Programs
- 
+  [Uniswap](https://github.com/Uniswap/v2-core)丨
+  [1inchProtocol](https://github.com/1inch/1inchProtocol)丨
+  [Tornado Cash](https://github.com/tornadocash/tornado-core)丨
  ### 6. Useful Tools
  
