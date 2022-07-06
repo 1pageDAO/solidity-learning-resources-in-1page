@@ -3,23 +3,23 @@ aggregation solidity learning resources in one page
 
 ### Contents
 
-- [Grammar Teaching](#grammar-teaching)
-- [Community](#community)
-- [Recommend Tools](#recommend-tools)
+- [Blogs](#blogs)
+- [Communities](#communities)
 - [Security](#security)
 - [Gas Optimization](#gas-optimization)
-- [Cases](#cases)
+- [Popular Programs](#popular-programs)
+- [Recommend Tools](#recommend-tools)
   
- ## Grammar Teaching
+ ## Blogs
  
- ## Community
- 
- ## Recommend Tools
+ ## Communities
  
  ## Security
  
  ## Gas Optimization
  
- ## Cases
+ ## Popular Programs
+ 
+ ## Recommend Tools
  
  #### link
