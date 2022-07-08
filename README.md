@@ -13,6 +13,8 @@ aggregation solidity learning resources in one page
   [awesome-solidity](https://github.com/bkrem/awesome-solidity)丨
   [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)丨
   [awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn)丨
+  [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)丨
+  [Go Ethereum Analyze](https://github.com/learnerLj/geth-analyze)丨
  
  ### 2. Communities
   [登链社区](https://learnblockchain.cn/)丨
@@ -23,6 +25,7 @@ aggregation solidity learning resources in one page
  ### 3. Security
   [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)丨
   [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)丨
+  [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)丨
   [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)丨
   [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)丨
   [secureum mind map](https://github.com/x676f64/secureum-mind_map)丨
