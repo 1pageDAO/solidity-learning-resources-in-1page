@@ -15,6 +15,8 @@ aggregation solidity learning resources in one page
   [awesome-ethereum-cn](https://github.com/dily3825002/awesome-ethereum-cn)丨
   [smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)丨
   [Go Ethereum Analyze](https://github.com/learnerLj/geth-analyze)丨
+  [Top 10 Smart Contract Developer Tools](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)丨
+  [SmartContract](https://github.com/smartcontractkit)丨
  
  ### 2. Communities
   [登链社区](https://learnblockchain.cn/)丨
@@ -38,6 +40,7 @@ aggregation solidity learning resources in one page
   [Chainlink](https://github.com/smartcontractkit/chainlink)丨
   [1inchProtocol](https://github.com/1inch/1inchProtocol)丨
   [Tornado Cash](https://github.com/tornadocash/tornado-core)丨
+  
  ### 6. Useful Tools
   [DappCamp](https://www.landscape.dappcamp.xyz/)丨
   [Tenderly](https://tenderly.co/)丨
