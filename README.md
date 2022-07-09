@@ -31,6 +31,8 @@ aggregation solidity learning resources in one page
   [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)丨
   [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)丨
   [secureum mind map](https://github.com/x676f64/secureum-mind_map)丨
+  [defihack](https://www.defihack.xyz/)丨
+  [先知社区](https://xz.aliyun.com/search?page=1&keyword=solidity)丨
   
  ### 4. Gas Optimization
   [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
