@@ -31,6 +31,7 @@ aggregation solidity learning resources in one page
   [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)丨
   [Smart Contract Weakness Classification and Test Cases](https://swcregistry.io/)丨
   [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)丨
+  [SlowMist](https://github.com/slowmist)丨
   [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)丨
   [secureum mind map](https://github.com/x676f64/secureum-mind_map)丨
   [defihack](https://www.defihack.xyz/)丨
