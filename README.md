@@ -18,6 +18,7 @@ aggregation solidity learning resources in one page
   [Go Ethereum Analyze](https://github.com/learnerLj/geth-analyze)丨
   [Top 10 Smart Contract Developer Tools](https://betterprogramming.pub/top-10-smart-contract-developer-tools-you-need-for-2022-b763f5df689a)丨
   [SmartContract](https://github.com/smartcontractkit)丨
+  [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)丨
  
  ### 2. Communities
   [登链社区](https://learnblockchain.cn/)丨
@@ -50,6 +51,7 @@ aggregation solidity learning resources in one page
   [Tenderly](https://tenderly.co/)丨
   [MyEtherWallet](https://www.myetherwallet.com/)丨
   [Alchemy](https://www.alchemy.com/)丨
+  [Infura](https://infura.io/)丨
   [isHoneypot](https://honeypot.is/)丨
   [Token Sniffer](https://tokensniffer.com/)丨
   [contractsVerified](https://etherscan.io/contractsVerified)丨
