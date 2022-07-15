@@ -52,6 +52,7 @@ aggregation solidity learning resources in one page
   [MyEtherWallet](https://www.myetherwallet.com/)丨
   [Alchemy](https://www.alchemy.com/)丨
   [Infura](https://infura.io/)丨
+  [ChainList](https://chainlist.org/zh)丨
   [isHoneypot](https://honeypot.is/)丨
   [Token Sniffer](https://tokensniffer.com/)丨
   [contractsVerified](https://etherscan.io/contractsVerified)丨
