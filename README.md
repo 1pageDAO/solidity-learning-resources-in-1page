@@ -52,3 +52,4 @@ aggregation solidity learning resources in one page
   [Alchemy](https://www.alchemy.com/)丨
   [isHoneypot](https://honeypot.is/)丨
   [Token Sniffer](https://tokensniffer.com/)丨
+  [contractsVerified](https://etherscan.io/contractsVerified)丨
