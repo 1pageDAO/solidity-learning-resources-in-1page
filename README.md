@@ -34,6 +34,7 @@ aggregation solidity learning resources in one page
   [secureum mind map](https://github.com/x676f64/secureum-mind_map)丨
   [defihack](https://www.defihack.xyz/)丨
   [先知社区](https://xz.aliyun.com/search?page=1&keyword=solidity)丨
+  [如何识别貔貅Token](https://mirror.xyz/web3eye.eth/oTMh4HAspV_Wrz1_RvSP4eUh27pOlxhRmT1iW_aT-KA)丨
   
  ### 4. Gas Optimization
   [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
@@ -47,3 +48,7 @@ aggregation solidity learning resources in one page
  ### 6. Useful Tools
   [DappCamp](https://www.landscape.dappcamp.xyz/)丨
   [Tenderly](https://tenderly.co/)丨
+  [MyEtherWallet](https://www.myetherwallet.com/)丨
+  [Alchemy](https://www.alchemy.com/)丨
+  [isHoneypot](https://honeypot.is/)丨
+  [Token Sniffer](https://tokensniffer.com/)丨
