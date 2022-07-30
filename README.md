@@ -20,6 +20,7 @@ aggregation solidity learning resources in one page
   [SmartContract](https://github.com/smartcontractkit)丨
   [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)丨
   [32小时最全课程](https://www.bilibili.com/video/BV1Ca411n7ta)丨
+  [how-to-defi-advanced](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/master)丨
  
  ### 2. Communities
   [登链社区](https://learnblockchain.cn/)丨
