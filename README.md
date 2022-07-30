@@ -61,3 +61,4 @@ aggregation solidity learning resources in one page
   [Token Sniffer](https://tokensniffer.com/)丨
   [contractsVerified](https://etherscan.io/contractsVerified)丨
   [chaingas](https://chaingas.shop/)丨
+  [storage with Slither](https://blog.trailofbits.com/2022/07/28/shedding-smart-contract-storage-with-slither/)丨
