@@ -57,3 +57,4 @@ aggregation solidity learning resources in one page
   [isHoneypot](https://honeypot.is/)丨
   [Token Sniffer](https://tokensniffer.com/)丨
   [contractsVerified](https://etherscan.io/contractsVerified)丨
+  [chaingas](https://chaingas.shop/)丨
