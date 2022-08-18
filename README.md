@@ -48,6 +48,7 @@ aggregation solidity learning resources in one page
   [Chainlink](https://github.com/smartcontractkit/chainlink)丨
   [1inchProtocol](https://github.com/1inch/1inchProtocol)丨
   [Tornado Cash](https://github.com/tornadocash/tornado-core)丨
+  [cryptozombies](https://cryptozombies.io/)丨
   
  ### 6. Useful Tools
   [DappCamp](https://www.landscape.dappcamp.xyz/)丨
