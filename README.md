@@ -67,3 +67,4 @@ aggregation solidity learning resources in one page
   [chaingas](https://chaingas.shop/)丨
   [storage with Slither](https://blog.trailofbits.com/2022/07/28/shedding-smart-contract-storage-with-slither/)丨
   [mev.day](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)丨
+  [flips.watch](https://flips.watch/0xb1fad4bcd1a6295c39ac02454f440752899966d6)丨
