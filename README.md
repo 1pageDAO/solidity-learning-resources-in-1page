@@ -41,6 +41,7 @@ aggregation solidity learning resources in one page
   [先知社区](https://xz.aliyun.com/search?page=1&keyword=solidity)丨
   [如何识别貔貅Token](https://mirror.xyz/web3eye.eth/oTMh4HAspV_Wrz1_RvSP4eUh27pOlxhRmT1iW_aT-KA)丨
   [Code4rena](https://github.com/code-423n4/)丨
+  [Paradigm CTF 2021](https://github.com/paradigmxyz/paradigm-ctf-2021)丨
   
  ### 4. Gas Optimization
   [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
