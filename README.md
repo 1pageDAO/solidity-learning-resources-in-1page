@@ -27,6 +27,7 @@ aggregation solidity learning resources in one page
   [捕鲸船社区](https://web3dao-cn.github.io/solidity-example/)丨
   [WTFSolidity](https://github.com/AmazingAng/WTFSolidity)丨
   [DappLearning](https://github.com/Dapp-Learning-DAO/Dapp-Learning)丨
+  [LearnWeb3](https://learnweb3.io/)丨
  
  ### 3. Security
   [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)丨
