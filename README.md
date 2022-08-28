@@ -71,3 +71,4 @@ aggregation solidity learning resources in one page
   [mev.day](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)丨
   [flips.watch](https://flips.watch/0xb1fad4bcd1a6295c39ac02454f440752899966d6)丨
   [getfoundry](https://book.getfoundry.sh/)丨
+  [ethers](https://docs.ethers.io/v5/)丨
