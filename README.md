@@ -44,6 +44,7 @@ aggregation solidity learning resources in one page
   [如何识别貔貅Token](https://mirror.xyz/web3eye.eth/oTMh4HAspV_Wrz1_RvSP4eUh27pOlxhRmT1iW_aT-KA)丨
   [Code4rena](https://github.com/code-423n4/)丨
   [Paradigm CTF 2021](https://github.com/paradigmxyz/paradigm-ctf-2021)丨
+  [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)丨
   
  ### 4. Gas Optimization
   [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization)丨
@@ -71,5 +72,4 @@ aggregation solidity learning resources in one page
   [mev.day](https://flashbots.notion.site/flashbots/mev-day-836f88806995412dabc1c7bb7ce4e830)丨
   [flips.watch](https://flips.watch/0xb1fad4bcd1a6295c39ac02454f440752899966d6)丨
   [getfoundry](https://book.getfoundry.sh/)丨
-  [ethers](https://docs.ethers.io/v5/)丨
   [ethers](https://docs.ethers.io/v5/)丨
